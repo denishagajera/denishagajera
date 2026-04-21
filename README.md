@@ -20,6 +20,6 @@
 
 <img src="https://camo.githubusercontent.com/d6acfa48f3daa33d6c1e59ced513435ad5ca4ce7b67da082149b1ed127fd2ab4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e656e736931333131267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=trushahapaliya&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="max-width: 100%;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trushahapaliya&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" style="max-width: 100%;" alt="trushahapaliya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denishagajera&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" style="max-width: 100%;" alt="trushahapaliya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trushahapaliya&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;" alt="trushahapaliya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denishagajera&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;" alt="trushahapaliya" /></p>
